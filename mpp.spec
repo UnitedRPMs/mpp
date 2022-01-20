@@ -23,7 +23,7 @@ Release: 1%{?dist}
 URL: https://github.com/rockchip-linux/mpp/
 Group: System Environment/Libraries
 Source0: https://github.com/rockchip-linux/mpp/archive/%{commit0}.tar.gz#/%{name}-%{shortcommit0}.tar.gz
-License: BSD
+License: ASL 2.0
 BuildRequires: cmake
 BuildRequires: gcc-c++
 Requires: librockchip-mpp = %{version}-%{release}
