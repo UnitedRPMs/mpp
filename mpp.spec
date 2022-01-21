@@ -30,7 +30,7 @@ Requires: librockchip-mpp = %{version}-%{release}
 Requires: librockchip-vpu = %{version}-%{release}
 
 %description
-Chromium Embedded Framework minimal release.
+Rockchip Media Process Platform.
 
 %package        -n librockchip-mpp
 Summary:        Libraries for Rockchip Media Process Platform 
